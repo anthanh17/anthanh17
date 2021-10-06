@@ -13,6 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 #### Languages
 ![Go](https://img.shields.io/badge/-Golang-green?&logo=Go&logoColor=00ADD8)
+
 - 💻 &nbsp; C | C++ | Python | MySQL | VHDL
 
 

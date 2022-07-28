@@ -6,13 +6,6 @@
 - 🎓 &nbsp; University of Engineeringand Technology – Vietnam National University. 
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-<h3>🛠 Tech Stack</h3>
-
-
-- 💻 &nbsp; C/C++ | Python | GoLang | VHDL | Docker | MySQL | Mongodb
-
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
